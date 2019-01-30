@@ -1,6 +1,6 @@
 {
   "name" : "Blast",
-  "author" : "Christiam Camacho, Thomas Madden, George Coulouris, Vahram Avagyan, Ning Ma, Tao Tao, Richa Agarwala",
+  "author" : "Dantas",
   "description" : "National Center for Biotechnology Information (NCBI). These applications have been revamped to provide an improved user interface, new features, and performance improvements compared to its counterparts in the NCBI C Toolkit. Hereafter we shall distinguish the C Toolkit BLAST command line applications from these command line applications by referring to the latter as the BLAST+ applications, which have been developed using the NCBI C++ Toolkit (http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=toolkit.TOC&depth=2).",
   "version" : "2.2.26",
   "documentation" : [ "http://blast.ncbi.nlm.nih.gov/Blast.cgi", "http://computing.bio.cam.ac.uk/local/doc/blast+_user_manual.pdf" ],
